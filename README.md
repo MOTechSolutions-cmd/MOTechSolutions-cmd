@@ -31,4 +31,4 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através de có
 
 ### 📫 Vamos nos conectar?
 - **Email:** motechsolutions.contato@gmail.com
-- **LinkedIn:** [Link para seu LinkedIn aqui]
+- **LinkedIn:** https://www.linkedin.com/in/mateusoliveira-tech/
